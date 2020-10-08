@@ -7,7 +7,7 @@
 https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
 
 ### 目次
-- 第1章   ベイズ推論の考え方
+- [第1章   ベイズ推論の考え方](/Ch1_Introduction_PyMC3.ipynb)
 - 第2章   確率分布と統計モデルの最尤推定PyMCについてもう少し
 - 第3章   MCMCのなかをのぞいてみよう
 - 第4章   偉大な定理、登場
