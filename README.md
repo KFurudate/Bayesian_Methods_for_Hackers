@@ -9,7 +9,7 @@ https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Metho
 ### 目次
 - [第1章   ベイズ推論の考え方](/Ch1_Introduction_PyMC3.ipynb)
 - [第2章   確率分布と統計モデルの最尤推定PyMCについてもう少し](/Ch2_MorePyMC_PyMC3.ipynb)
-- [第3章   MCMCのなかをのぞいてみよう](/Ch3_MorePyMC_PyMC3.ipynb)
+- [第3章   MCMCのなかをのぞいてみよう](/Ch3_IntroMCMC_PyMC3.ipynb)
 - 第4章   偉大な定理、登場
 - 第5章   損失はおいくら？
 - 第6章   事前分布をハッキリさせよう
