@@ -6,6 +6,8 @@
 著者らのgithub
 https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
 
+[玉城先生の翻訳](https://nbviewer.jupyter.org/github/tttamaki/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Prologue/Prologue.ipynb)
+
 ### 目次
 - [第1章   ベイズ推論の考え方](/Ch1_Introduction_PyMC3.ipynb)
 - [第2章   確率分布と統計モデルの最尤推定PyMCについてもう少し](/Ch2_MorePyMC_PyMC3.ipynb)
